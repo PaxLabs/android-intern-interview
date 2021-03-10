@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PaxAndroidInternship</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">List Goes One Way</string>
+    <string name="hello_second_fragment">List Goes The Other Way</string>
+
+    <string name="fab_content_desc">Add a thing</string>
+
+    <string name="icon_attribution">Icon: Book by iconcheese from the Noun Project</string>
+</resources>
