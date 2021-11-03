@@ -23,7 +23,5 @@ class RandoAdapter(val context: Context) : Adapter<RandoViewHolder>() {
 
     override fun getItemViewType(position: Int): Int = content.getOrNull(position).hashCode()
 
-    override fun onBindViewHolder(holder: RandoViewHolder, position: Int) {
-        holder.
-    }
+    override fun onBindViewHolder(holder: RandoViewHolder, position: Int) {}
 }
